@@ -1,4 +1,4 @@
-### video filter
+## video filter
 
 * This is a NodeJs API about video compose, video filter and video format method.You can use it to control the video on the server.Before to use this API you must install the `ffmpeg` software.
 
