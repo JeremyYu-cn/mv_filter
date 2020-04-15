@@ -7,7 +7,7 @@
 ### how to use
 e.g
 ```
-    const Filter = require('./index.js');
+    const Filter = require('node-vf');
     const filter = new Filter();
     filter.concatVideo([mv1.mp4, mv2.mp4], 'outpurt.mp4', false) // to concat videos
 ```
